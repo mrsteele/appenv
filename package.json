@@ -1,0 +1,25 @@
+{
+  "name": "@appenv/core",
+  "version": "0.0.1",
+  "description": "Take your node env to the next level",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrsteele/appenv.git"
+  },
+  "author": "Matt Steele <hi@mrsteele.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrsteele/appenv/issues"
+  },
+  "homepage": "https://github.com/mrsteele/appenv#readme",
+  "keywords": [
+    "env",
+    "node_env",
+    "dotenv",
+    "defaults"
+  ]
+}
